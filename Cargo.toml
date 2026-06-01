@@ -1,0 +1,6 @@
+[package]
+name = "plato-mythos-bridge"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Bridge connecting PLATO monitoring/signal chain with 7 cultural math traditions"
